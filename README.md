@@ -1,2 +1,2 @@
 # deepharmony
-Music understanding through deep neural networks
+Music understanding through deep neural networks.
